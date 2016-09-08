@@ -1,5 +1,3 @@
-echo "# password_grid_generator" >> README.md
-
 USAGE
 ====
 
